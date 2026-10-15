@@ -18,3 +18,6 @@ https://github.moeyy.xyz/https://github.com/ashsteins/wuwurpg/blob/main/video.js
 成人版：
 https://raw.bgithub.xyz/wwb521/live/refs/heads/main/video.json
 短链接：http://gg.gg/1c5sjx
+
+
+https://github.com/fafa002/yf2025/blob/main/yiyifafa.txt
