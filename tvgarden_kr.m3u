@@ -1,0 +1,93 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="D8DiLY4WZDbVsD" tvg-name="ABN" group-title="South Korea",ABN
+https://vod2.abn.co.kr/IPHONE/abn.m3u8
+#EXTINF:-1 tvg-id="Tbc3pRPpRtjmFA" tvg-name="Arirang Radio" group-title="South Korea",Arirang Radio
+https://amdlive-ch02-ctnd-com.akamaized.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="HeXayd4ifeh0ao" tvg-name="Arirang TV" group-title="South Korea",Arirang TV
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="HeXayd4ifeh0ao" tvg-name="Arirang TV [2]" group-title="South Korea",Arirang TV [2]
+https://amdlive-ch02-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="HeXayd4ifeh0ao" tvg-name="Arirang TV [3]" group-title="South Korea",Arirang TV [3]
+https://amdlive-ch03-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="MLoSafen2Et7rW" tvg-name="Arirang UN" group-title="South Korea",Arirang UN
+https://amdlive-ch02-ctnd-com.akamaized.net/arirang_2ch/smil:arirang_2ch.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="dCaOunns8imgD4" tvg-name="BBS TV" group-title="South Korea",BBS TV
+https://bbstv.clouducs.com/bbstv-live/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="3DWH3Zf0EtNUaG" tvg-name="BTN TV" group-title="South Korea",BTN TV
+https://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8
+#EXTINF:-1 tvg-id="GACglLCSkdixy6" tvg-name="CBS TV" group-title="South Korea",CBS TV
+https://cbs-live.cbs.co.kr/cbs-live/_definst_/cbs-live.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="H2CDIH8qBgxAa8" tvg-name="CJ OnStyle" group-title="South Korea",CJ OnStyle
+https://live-ch1.cjonstyle.net/cjmalllive/stream2/playlist.m3u8
+#EXTINF:-1 tvg-id="nwjpk1GgnvBj65" tvg-name="CJ OnStyle+" group-title="South Korea",CJ OnStyle+
+https://live-ch2.cjonstyle.net/cjosplus/live2/playlist.m3u8
+#EXTINF:-1 tvg-id="IvsuFrM7fgKeFe" tvg-name="EBS 1TV" group-title="South Korea",EBS 1TV
+https://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-id="IvsuFrM7fgKeFe" tvg-name="EBS 1TV [2]" group-title="South Korea",EBS 1TV [2]
+https://ebsonair.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-id="mMfQkG8CWfVeNj" tvg-name="EBS 2TV" group-title="South Korea",EBS 2TV
+https://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-id="TH2UspcIuapB4I" tvg-name="EBS English" group-title="South Korea",EBS English
+https://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-id="mkS2euN6WoaBGB" tvg-name="EBS Kids" group-title="South Korea",EBS Kids
+https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-id="kn5TVoJjDEx7yb" tvg-name="EBS Plus 1" group-title="South Korea",EBS Plus 1
+https://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-id="ODIhPYL5EPIjtl" tvg-name="EBS Plus 2" group-title="South Korea",EBS Plus 2
+https://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-id="iHYNLGETdvi3C5" tvg-name="FGTV" group-title="South Korea",FGTV
+https://fgtvlive.fgtv.com/smil:fgtv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="BHUk7W2sHiMZn9" tvg-name="Gongyoung Home Shopping" group-title="South Korea",Gongyoung Home Shopping
+https://etv.publichs.com/live5.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Ha2TQrOiJuUiVm" tvg-name="GS My Shop" group-title="South Korea",GS My Shop
+https://gstv-myshop.gsshop.com/myshop_hd/myshop_hd.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="tTyhlQIbf96cqF" tvg-name="GS Shop" group-title="South Korea",GS Shop
+https://gstv-gsshop.gsshop.com/gsshop_hd/gsshop_hd.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="cqIhg7ovb7n2hP" tvg-name="Gugak TV" group-title="South Korea",Gugak TV
+https://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="hJP0GSnYM15Xax" tvg-name="HLAJ-DTV" group-title="South Korea",HLAJ-DTV
+https://wowza.jejumbc.com/live/tv_jejumbc/playlist.m3u8
+#EXTINF:-1 tvg-id="LeEKq1Wp81fOe3" tvg-name="HLAN-DTV" group-title="South Korea",HLAN-DTV
+https://stream.chmbc.co.kr/TV/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="pnA1ESNuQBhdp0" tvg-name="HLAT-DTV" group-title="South Korea",HLAT-DTV
+https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8
+#EXTINF:-1 tvg-id="GCDtsdmWOrJKEn" tvg-name="HLCQ-DTV" group-title="South Korea",HLCQ-DTV
+https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="jOYpv2cv2xRFLe" tvg-name="HLCT-DTV" group-title="South Korea",HLCT-DTV
+https://5ee1ec6f32118.streamlock.net/live/livetv/playlist.m3u8
+#EXTINF:-1 tvg-id="pl6NNNGCvJKobd" tvg-name="HLDH-DTV" group-title="South Korea",HLDH-DTV
+https://vod.ikbc.co.kr/KBCTV/tv/playlist.m3u8
+#EXTINF:-1 tvg-id="hI9SMCGhwuM1Tn" tvg-name="HLDP-DTV" group-title="South Korea",HLDP-DTV
+https://stream.ubc.co.kr/hls/ubctvstream/index.m3u8
+#EXTINF:-1 tvg-id="vUHuDdpPOMwJOv" tvg-name="Home & Shopping" group-title="South Korea",Home & Shopping
+https://s28.qtcdn.co.kr/media/liveM3U8/idx/518045142/enc/1860408350/playlist.m3u8
+#EXTINF:-1 tvg-id="JdXXEWHEkhS0rD" tvg-name="Hyundai Home Shopping" group-title="South Korea",Hyundai Home Shopping
+https://livejj.hyundaihmall.com:8443/live/ngrp:hmall.stream_pc/playlist.m3u8
+#EXTINF:-1 tvg-id="UShqKN6AAa2tbY" tvg-name="Hyundai Home Shopping + Shop" group-title="South Korea",Hyundai Home Shopping + Shop
+https://dtvstreaming.hyundaihmall.com/newcjp3/_definst_/newcjpstream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="y96VZMuCp67Sxq" tvg-name="KBS World" group-title="South Korea",KBS World
+https://stream8.cinerama.uz/1448/playlist.m3u8
+#EXTINF:-1 tvg-id="lvIrwQpUaM4Bib" tvg-name="KTV" group-title="South Korea",KTV
+https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="xgn0FUKlpDXRRt" tvg-name="Lotte Home Shopping" group-title="South Korea",Lotte Home Shopping
+https://pchlslivesw.lotteimall.com/live/livestream/lotteimalllive_mp4.m3u8
+#EXTINF:-1 tvg-id="6c1onCC872cpGK" tvg-name="Lotte OneTV" group-title="South Korea",Lotte OneTV
+https://onetvhlslive.lotteimall.com/lotteonetvlive/lotteonetvlive.mp4.m3u8
+#EXTINF:-1 tvg-id="miOqdRnG0LrRce" tvg-name="NBS" group-title="South Korea",NBS
+https://media.joycorp.co.kr:4443/live/ngrp:live_all/playlist.m3u8
+#EXTINF:-1 tvg-id="oNnWdV2miCH9OF" tvg-name="NS Home Shopping" group-title="South Korea",NS Home Shopping
+https://livestream.nsmall.com/IPHONE/nsmallMobile.m3u8
+#EXTINF:-1 tvg-id="GPfN3XUpvverSy" tvg-name="NS Shop+" group-title="South Korea",NS Shop+
+https://shoppstream.nsmall.com/IPHONE/mobile.m3u8
+#EXTINF:-1 tvg-id="n4MkAIlXwdSE8X" tvg-name="OUN" group-title="South Korea",OUN
+https://live.knou.ac.kr/knou1/live1/playlist.m3u8
+#EXTINF:-1 tvg-id="2JjtogNFSDfTsC" tvg-name="RUTC TV" group-title="South Korea",RUTC TV
+https://d26sxnc75smwvh.cloudfront.net/livehttporigin/rutclive_720p2.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="fnE13NFNokanvE" tvg-name="Shinsegae TV Shopping" group-title="South Korea",Shinsegae TV Shopping
+https://liveout.catenoid.net/live-02-shinsegaetvshopping/shinsegaetvshopping_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="hiABpRG1XhgOmb" tvg-name="Shopping NT" group-title="South Korea",Shopping NT
+https://live.shoppingntmall.com/live/10011.m3u8
+#EXTINF:-1 tvg-id="WiOl654PXu3URa" tvg-name="TBS TV" group-title="South Korea",TBS TV
+https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="4If9DGlBIwVH9j" tvg-name="W Shopping" group-title="South Korea",W Shopping
+https://liveout.catenoid.net/live-05-wshopping/wshopping_1500k/playlist.m3u8
