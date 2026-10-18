@@ -21,3 +21,5 @@ https://raw.bgithub.xyz/wwb521/live/refs/heads/main/video.json
 https://github.com/fafa002/yf2025/blob/main/yiyifafa.txt
 
 https://iptv.445569.xyz/live.m3u
+
+https://gh-proxy.org/https://github.com/genshinash/wuwurpg/blob/main/yiyifafa.txt
