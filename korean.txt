@@ -8,7 +8,7 @@ BTN TV,https://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8
 CBS TV,https://cbs-live.cbs.co.kr/cbs-live/_definst_/cbs-live.stream/playlist.m3u8
 CJ OnStyle,https://live-ch1.cjonstyle.net/cjmalllive/stream2/playlist.m3u8
 CJ OnStyle+,https://live-ch2.cjonstyle.net/cjosplus/live2/playlist.m3u8
-C채널방송: 성지가좋다,webview://https://www.youtube-nocookie.com/embed/gGEP9Vd0u34
+C채널방송: 성지가좋다,https://www.youtube.com/live/oelkILhVqOk?si=YhEEPGhYFJ9Mhnhd
 C채널방송: 실시간 방송,webview://https://www.youtube-nocookie.com/embed/dWjAQay5JTU
 EBS 1TV,https://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8
 EBS 2TV,https://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
