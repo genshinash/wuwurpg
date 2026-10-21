@@ -1,0 +1,70 @@
+ABN,https://vod2.abn.co.kr/IPHONE/abn.m3u8
+Arirang Radio,https://amdlive-ch02-ctnd-com.akamaized.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8
+Arirang Radio K-Pop,webview://https://www.youtube-nocookie.com/embed/P1fX2GGdVS0
+Arirang TV,https://freem3u.xyz/api/live/play.m3u8?vid=111
+Arirang UN,https://amdlive-ch02-ctnd-com.akamaized.net/arirang_2ch/smil:arirang_2ch.smil/playlist.m3u8
+BBS TV,https://bbstv.clouducs.com/bbstv-live/livestream/playlist.m3u8
+BTN TV,https://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8
+CBS TV,https://cbs-live.cbs.co.kr/cbs-live/_definst_/cbs-live.stream/playlist.m3u8
+CJ OnStyle,https://live-ch1.cjonstyle.net/cjmalllive/stream2/playlist.m3u8
+CJ OnStyle+,https://live-ch2.cjonstyle.net/cjosplus/live2/playlist.m3u8
+C채널방송: 성지가좋다,webview://https://www.youtube-nocookie.com/embed/gGEP9Vd0u34
+C채널방송: 실시간 방송,webview://https://www.youtube-nocookie.com/embed/dWjAQay5JTU
+EBS 1TV,https://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8
+EBS 2TV,https://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
+EBS English,https://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
+EBS Kids,https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
+EBS Plus 1,https://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8
+EBS Plus 2,https://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8
+FGTV,https://fgtvlive.fgtv.com/smil:fgtv.smil/playlist.m3u8
+GCNTV Korea,webview://https://www.youtube-nocookie.com/embed/L9bvCgSJXnc
+Gongyoung Home Shopping,https://etv.publichs.com/live5.stream/playlist.m3u8
+GS My Shop,https://gstv-myshop.gsshop.com/myshop_hd/myshop_hd.stream/playlist.m3u8
+GS Shop,https://gstv-gsshop.gsshop.com/gsshop_hd/gsshop_hd.stream/playlist.m3u8
+Gugak TV,https://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
+HLAN-DTV,https://stream.chmbc.co.kr/TV/myStream/playlist.m3u8
+HLAT-DTV,https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8
+HLCQ-DTV,https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8
+HLCT-DTV,https://5ee1ec6f32118.streamlock.net/live/livetv/playlist.m3u8
+HLDH-DTV,https://vod.ikbc.co.kr/KBCTV/tv/playlist.m3u8
+HLDP-DTV,https://stream.ubc.co.kr/hls/ubctvstream/index.m3u8
+Home & Shopping,https://s28.qtcdn.co.kr/media/liveM3U8/idx/518045142/enc/1860408350/playlist.m3u8
+Hyundai Home Shopping,https://livejj.hyundaihmall.com:8443/live/ngrp:hmall.stream_pc/playlist.m3u8
+Hyundai Home Shopping + Shop,https://dtvstreaming.hyundaihmall.com/newcjp3/_definst_/newcjpstream.smil/playlist.m3u8
+JTBC News,webview://https://www.youtube-nocookie.com/embed/jRxuz4Fdb8g
+KBS News,webview://https://www.youtube-nocookie.com/embed/1n45Ht18zYo
+KBS World,https://stream8.cinerama.uz/1448/playlist.m3u8
+KBS WORLD TV,webview://https://www.youtube-nocookie.com/embed/OxQQsIvJTTU
+KTV,https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
+Lotte Home Shopping,https://pchlslivesw.lotteimall.com/live/livestream/lotteimalllive_mp4.m3u8
+Lotte OneTV,https://onetvhlslive.lotteimall.com/lotteonetvlive/lotteonetvlive.mp4.m3u8
+MBC News,webview://https://www.youtube-nocookie.com/embed/q9bM12ucTIY
+NBS,https://media.joycorp.co.kr:4443/live/ngrp:live_all/playlist.m3u8
+NS Home Shopping,https://livestream.nsmall.com/IPHONE/nsmallMobile.m3u8
+NS Shop+,https://shoppstream.nsmall.com/IPHONE/mobile.m3u8
+OUN,https://live.knou.ac.kr/knou1/live1/playlist.m3u8
+Pororo 뽀로로,webview://https://www.youtube-nocookie.com/embed/PoQx9fUDBfo
+RUTC TV,https://d26sxnc75smwvh.cloudfront.net/livehttporigin/rutclive_720p2.stream/playlist.m3u8
+SBS,webview://https://www.youtube-nocookie.com/embed/oelkILhVqOk
+SBS Running Man,webview://https://www.youtube-nocookie.com/embed/d8OvbUAxaec
+Shinsegae TV Shopping,https://liveout.catenoid.net/live-02-shinsegaetvshopping/shinsegaetvshopping_720p/playlist.m3u8
+Shopping NT,https://live.shoppingntmall.com/live/10011.m3u8
+TBS TV,https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
+TVCHOSUN JOY,webview://https://www.youtube-nocookie.com/embed/rIskqn31Oa0
+TVCHOSUN MUSIC,webview://https://www.youtube-nocookie.com/embed/OlJu3BzXjXY
+tvN D ENT,webview://https://www.youtube-nocookie.com/embed/WpvCQaOxA7s
+W Shopping,https://liveout.catenoid.net/live-05-wshopping/wshopping_1500k/playlist.m3u8
+Yonhap News TV,webview://https://www.youtube-nocookie.com/embed/6QZ_qc75ihU
+YTN,webview://https://www.youtube-nocookie.com/embed/aZyD6EPl6KU
+YTN 2,webview://https://www.youtube-nocookie.com/embed/g4z6U1yFGKk
+YTN dmb,webview://https://www.youtube-nocookie.com/embed/B0-AnhL12vw
+YTN Science,webview://https://www.youtube-nocookie.com/embed/6FbEE0gmnrE
+디글 클래식 :Diggle Classic,webview://https://www.youtube-nocookie.com/embed/H3uur6g_9CA
+매일경제TV,webview://https://www.youtube-nocookie.com/embed/s9xL1DpBsfQ
+사피엔스 스튜디오,webview://https://www.youtube-nocookie.com/embed/b5UeAVqz4cI
+서울경제TV,webview://https://www.youtube-nocookie.com/embed/ciA-0rInLwQ
+연합뉴스경제TV,webview://https://www.youtube-nocookie.com/embed/yhpbioCP6nA
+이데일리TV,webview://https://www.youtube-nocookie.com/embed/5cFoz90FUMk
+토마토증권통,webview://https://www.youtube-nocookie.com/embed/w05Ejc0iOVI
+토마토집통,webview://https://www.youtube-nocookie.com/embed/M7a5wVnkcug
+한국경제TV,webview://https://www.youtube-nocookie.com/embed/VlaCnp1fxI8
