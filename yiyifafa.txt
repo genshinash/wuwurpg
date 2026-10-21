@@ -6573,7 +6573,7 @@ HD音乐,https://lhttp.qingting.fm/live/15318341/64k.mp3
 河北音乐,https://lhttp.qingting.fm/live/1649/64k.mp3
 浙江音乐,https://lhttp.qingting.fm/live/4866/64k.mp3
 
-私密频道_169169,#genre#
+私密频道,#genre#
 移动网专用,
 惊艳1,rtmp://112.29.121.74/live/易發TV-jyt
 香蕉2,rtmp://112.29.121.74/live/易發TV-xjt
